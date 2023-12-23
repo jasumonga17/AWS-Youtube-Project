@@ -6,7 +6,6 @@
 * After this if we write: **aws s3 ls** this will give us all the s3 buckets.
 * This will set the **AWS CLI**.
 
-
 **Data Ingestion Process:**
 1. Utilized AWS CLI commands to seamlessly extract YouTube data sourced from Kaggle and transfer it into an Amazon S3 bucket, leveraging the power and flexibility of AWS cloud services for efficient data management.
 
@@ -26,5 +25,6 @@
 1. Conducted data pre-processing for JSON files using **AWS Lambda**, where Python code leveraging the awswrangler library was executed to seamlessly enhance and prepare the data for subsequent processing steps.
 * If we want AWS Lambda to access the AWS S3 bucket we need to create a **role** for lambda to access it.
 * In that permit **AMAzonS3FullAccess**
+* The error we are trying to resolve is that in our JSON data, we have data in the array format instead of in the key-value pair format so we need to do pre-processing before we use crawler.
    
 <img width="1356" alt="Screenshot 2023-12-23 at 2 41 24 PM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/bb6375df-cf12-4cb1-b5b0-d1585e907e45">
