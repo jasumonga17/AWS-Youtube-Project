@@ -38,7 +38,8 @@
 <img width="338" alt="Screenshot 2023-12-23 at 7 11 45 PM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/1bdb5d5a-4bfa-458b-9763-2185570d6769">
 
 **AWS Athena**
-1. Utilized **Athena** to execute SQL queries on our data, leveraging its serverless and interactive query capabilities for efficient and on-demand analysis
+
+Utilized **Athena** to execute SQL queries on our data, leveraging its serverless and interactive query capabilities for efficient and on-demand analysis
 
    
 
