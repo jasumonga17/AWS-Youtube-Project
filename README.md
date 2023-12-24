@@ -1,7 +1,6 @@
 # AWS-Youtube Analysis-Project
 
-<img width="266" alt="Screenshot 2023-12-24 at 10 05 24 AM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/835ded73-b01d-4291-a79a-947c0169c409">
-
+<img width="1356" alt="Screenshot 2023-12-23 at 2 41 24 PM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/bb6375df-cf12-4cb1-b5b0-d1585e907e45">
 
 **Commands Used** to install **AWS CLI**:
 * Inside the terminal write: **aws**
@@ -41,4 +40,4 @@
 1. Utilized **Athena** to execute SQL queries on our data, leveraging its serverless and interactive query capabilities for efficient and on-demand analysis
 
    
-<img width="1356" alt="Screenshot 2023-12-23 at 2 41 24 PM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/bb6375df-cf12-4cb1-b5b0-d1585e907e45">
+
