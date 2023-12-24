@@ -1,4 +1,7 @@
-# AWS-Youtube-Project
+# AWS-Youtube Analysis-Project
+
+<img width="266" alt="Screenshot 2023-12-24 at 10 05 24 AM" src="https://github.com/jasumonga17/AWS-Youtube-Project/assets/76562774/835ded73-b01d-4291-a79a-947c0169c409">
+
 
 **Commands Used** to install **AWS CLI**:
 * Inside the terminal write: **aws**
